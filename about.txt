@@ -1,0 +1,7 @@
+<b>Salmon</b> is a sample application for salary monitoring for several IT jobs in Saint Petersburg, Russia.
+<br><br>
+This software is <b>NOT</b> licensed, and <a href="https://choosealicense.com/no-permission/">you know what that means</a>. The source code is available <a href="https://bitbucket.org/aetherial/salmon">on bitbucket</a>, though.
+<p/>
+This very app is deployed with demo perposes only, and the data will <b>NOT</b> be updated on the regular basis.
+<p/>
+For more information, please contact <a href="mailto:patsulda@gmail.com">patsulda@gmail.com</a>
